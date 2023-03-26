@@ -1,4 +1,4 @@
-package com.adangomez.learning;
+package com.adangomez.learning.section1;
 
 public class ExampleOfLambda {
 
