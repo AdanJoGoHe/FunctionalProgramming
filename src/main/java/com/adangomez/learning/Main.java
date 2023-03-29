@@ -5,6 +5,7 @@ import com.adangomez.learning.section1.ImperativeVsDeclarative;
 import com.adangomez.learning.section1.ImplementationOfFuncInterface;
 import com.adangomez.learning.section2.p1;
 import com.adangomez.learning.section2.p2;
+import com.adangomez.learning.section2.p3;
 
 public class Main {
     public static void main(String[] args) {
@@ -23,5 +24,6 @@ public class Main {
         System.out.println("Initializing Section 2");
         p1.start();
         p2.start();
+        p3.printName("Adan");
     }
 }
